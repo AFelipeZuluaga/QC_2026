@@ -101,10 +101,10 @@ A partir de la ejecución en hardware real, reporte:
 
 Complete la entrega a través del siguiente formulario:
 
-📎 [Formulario de entrega](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/Tabla.md)
+📎 [Formulario de entrega](https://forms.gle/LBEeAGqRTGv1g2uW6)
 
 ### **Elementos requeridos:**
 
-- Enlace al **notebook en Google Colab o Github** con el código desarrollado.
-- Archivo **PDF** de la Tabla 1 debidamente diligenciada.  
+- Enlace al **Notebook en Google Colab o Github** con el código desarrollado.
 - Respuestas a las preguntas planteadas en cada ejercicio.  
+

@@ -119,7 +119,7 @@ Reporte:
 
 Complete la entrega a través del siguiente formulario:
 
-📎 [Formulario de entrega](https://github.com/gpatigno/DISCRETAS_2026/blob/main/ACTIVIDAD3/Tabla.md)
+📎 [Formulario de entrega](https://forms.gle/LBEeAGqRTGv1g2uW6)
 
 ### **Elementos requeridos:**
 
