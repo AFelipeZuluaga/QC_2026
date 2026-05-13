@@ -71,7 +71,7 @@ $$
 
 donde:
 
-- $y=0$ representa tráfico libre,
+- $y=0$ representa tráfico libre.
 - $y=1$ representa congestión severa.
 
 ## 2.3. Conjunto de Datos de Entrada y Salida
