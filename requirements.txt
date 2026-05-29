@@ -1,5 +1,8 @@
+qiskit==2.3.0
+pennylane==0.45.0  
+pennylane-qiskit==0.45.0
+qiskit-aer
 numpy
-pandas
+scipy
 matplotlib
-scikit-learn
-requests
+pandas
