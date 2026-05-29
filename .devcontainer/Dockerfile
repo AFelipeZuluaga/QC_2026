@@ -9,6 +9,7 @@ RUN pip install --upgrade pip
 # Instala librerías cuánticas
 RUN pip install \
     qiskit \
+    qiskit[visualization] \
     pennylane \
     pennylane-qiskit \
     qiskit-aer \
