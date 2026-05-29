@@ -10,9 +10,10 @@ RUN pip install --upgrade pip
 RUN pip install \
     qiskit \
     qiskit[visualization] \
+    qiskit-aer \
+    qiskit-ibm-runtime \
     pennylane \
     pennylane-qiskit \
-    qiskit-aer \
     jupyter \
     ipykernel
 
