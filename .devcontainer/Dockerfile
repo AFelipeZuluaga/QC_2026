@@ -8,14 +8,14 @@ RUN pip install --upgrade pip
 
 # Instala librerías cuánticas
 RUN pip install \
+    jupyter \
+    ipykernel \
     qiskit \
     qiskit[visualization] \
     qiskit-aer \
     qiskit-ibm-runtime \
     pennylane \
-    pennylane-qiskit \
-    jupyter \
-    ipykernel
+#    pennylane-qiskit \
 
 # Opcional: herramientas útiles
 RUN pip install numpy scipy matplotlib pandas
