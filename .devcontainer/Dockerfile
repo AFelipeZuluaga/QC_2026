@@ -14,7 +14,7 @@ RUN pip install \
     qiskit[visualization] \
     qiskit-aer \
     qiskit-ibm-runtime \
-    pennylane \
+    pennylane
 #    pennylane-qiskit \
 
 # Opcional: herramientas útiles
